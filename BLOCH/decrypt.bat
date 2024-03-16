@@ -1,0 +1,1 @@
+python main.py encrypt.txt decrypt.txt decrypt
